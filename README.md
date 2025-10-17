@@ -9,4 +9,4 @@ but i am running out of time so i will have to just submit it as it is :/
 thank you for reading
 
 disclaimer:
-i used chat gpt for some brainstorming and to help with python notation as i am not very used to python
+i used chat gpt for some brainstorming and to help with python syntax as i am not very used to python, but i tried to stick to writing the code and doing everything myself
